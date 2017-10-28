@@ -31,6 +31,7 @@
 		}
 		//cerrar conexion
 		mysqli_close($conectar);
+		asd
 	?>
 </body>
 </html>
